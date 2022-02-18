@@ -1,2 +1,2 @@
 #ALX PRE COURSE
-This is my first git project
+This is my first alx git project
